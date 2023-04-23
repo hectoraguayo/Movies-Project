@@ -1,0 +1,9 @@
+
+
+#mi-carrusel {
+  margin: 0 auto;
+}
+/* Reducimos el tamaño de las imágenes */
+#mi-carrusel .carousel-item img {
+  max-height: 300px;
+}
